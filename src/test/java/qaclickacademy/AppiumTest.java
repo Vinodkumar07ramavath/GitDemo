@@ -4,9 +4,11 @@ public class AppiumTest {
     @Test
     public void NativeApAndroid(){
         System.out.println("NativeApAndroid");
+        System.out.println("NativeApAndroid");
     }
     @Test
     public void IOSApps(){
+        System.out.println("IOSApps");
         System.out.println("IOSApps");
     }
 }
